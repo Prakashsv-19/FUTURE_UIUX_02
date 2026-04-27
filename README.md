@@ -132,7 +132,7 @@ This design helps:
 
 ---
 
-## 🔗 Design Link
+## 🔗 Prototype Link
 
 TASK2-https://www.figma.com/proto/XRCx77MMvLkI5aPC37HDKx/LEGALPARTNERS?node-id=0-1&t=XK3ae124QdT20EBq-1
 
